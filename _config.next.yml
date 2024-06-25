@@ -115,7 +115,7 @@ menu:
   # 非默认值 
   categories: /categories/ || fa fa-th
   # 非默认值
-  archives: /archives/ || fa fa-archive
+  #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -330,7 +330,8 @@ related_posts:
 # Easily browse and edit blog source code online.
 post_edit:
   enable: false
-  url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/ # Link for view source
+  # 非默认值
+  url: https://github.com/vincentzchao/blog-site/tree/main/source/ # Link for view source
   #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/ # Link for fork & edit
 
 # Show previous post and next post in post footer if exists
@@ -372,7 +373,8 @@ calendar:
 
 # Preload styles and preconnect CDN for fonts and plugins.
 # For more information: https://www.w3.org/TR/resource-hints/#preconnect
-preconnect: false
+# 非默认值
+preconnect: true
 
 # Set the text alignment in posts / pages.
 text_align:
@@ -406,12 +408,15 @@ codeblock:
     dark: prism-dark
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    # 非默认值
+    enable: true
     # Available values: default | flat | mac
-    style:
+    # 非默认值
+    style: default
   # Fold code block
   fold:
-    enable: false
+    # 非默认值
+    enable: true
     height: 500
 
 back2top:
@@ -419,18 +424,21 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  # 非默认值
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  # 非默认值
+  enable: true
   # Available values: left | right
   start_at: left
   # Available values: top | bottom
   position: top
   reversed: false
   color: "#37c6c0"
-  height: 3px
+  # 非默认值
+  height: 2px
 
 # Bookmark Support
 bookmark:
@@ -896,7 +904,8 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/next-theme/hexo-generator-searchdb
 local_search:
-  enable: false
+  # 非默认值
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto

@@ -2,7 +2,7 @@
 title: 
 date: 2024-06-23 03:49:59
 ---
-![](../images/avatar/android-chrome-192x192.png)
+![](index/android-chrome-192x192.png)
 我是 **Vincent** ，中文网名一般是 **超超然** 。
 1998 年出生于江西的一个农村，江苏某双非一本本科学历。
 目前本职工作是后端开发，是个未独立开发者。
