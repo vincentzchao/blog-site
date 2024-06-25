@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vincent&#39;s Blog</title>
+  <icon>https://binchaos.com/icon.png</icon>
+  
+  <link href="https://binchaos.com/atom.xml" rel="self"/>
+  
+  <link href="https://binchaos.com/"/>
+  <updated>2024-06-25T08:49:21.632Z</updated>
+  <id>https://binchaos.com/</id>
+  
+  <author>
+    <name>Vincent (超超然)</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>img-demo</title>
+    <link href="https://binchaos.com/2024/06/24/img-demo/"/>
+    <id>https://binchaos.com/2024/06/24/img-demo/</id>
+    <published>2024-06-24T10:53:40.000Z</published>
+    <updated>2024-06-25T08:49:21.632Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img-demo/android-chrome-192x192.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>md-demo</title>
+    <link href="https://binchaos.com/2024/06/24/md-demo/"/>
+    <id>https://binchaos.com/2024/06/24/md-demo/</id>
+    <published>2024-06-23T20:44:52.000Z</published>
+    <updated>2024-06-25T11:06:52.661Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一级标题测试&quot;&gt;&lt;a href=&quot;#一级标题测试&quot; class=&quot;headerlink&quot; title=&quot;一级标题测试&quot;&gt;&lt;/a&gt;一级标题测试&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/../images/avatar/android-chrome-192x192.png&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;二级标题测试&quot;&gt;&lt;a href=&quot;#二级标题测试&quot; class=&quot;headerlink&quot; title=&quot;二级标题测试&quot;&gt;&lt;/a&gt;二级标题测试&lt;/h2&gt;&lt;p&gt;xxxx&lt;br&gt;xxxxxxxx&lt;br&gt;xxxxxxxx&lt;br&gt;xxxxxxxxxxxxxxxxxxxx&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="demo" scheme="https://binchaos.com/categories/demo/"/>
+    
+    <category term="md" scheme="https://binchaos.com/categories/demo/md/"/>
+    
+    
+    <category term="测试" scheme="https://binchaos.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="md" scheme="https://binchaos.com/tags/md/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://binchaos.com/2024/06/17/hello-world/"/>
+    <id>https://binchaos.com/2024/06/17/hello-world/</id>
+    <published>2024-06-17T09:57:15.008Z</published>
+    <updated>2024-06-17T09:57:15.008Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
